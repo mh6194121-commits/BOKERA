@@ -1,2 +1,1 @@
-# BOKERA
-BOKERA - Social App
+# POKER
